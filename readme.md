@@ -5,5 +5,5 @@ Features:
 * Stylize Brackets editor with the charm of Vintage Terminal
 ![example](https://raw.githubusercontent.com/dnbard/brackets-old-terminal/master/shots/shot00.png)
 
-* Works with any dark Brackets theme. Choose any you want!
+* Works with any dark Brackets theme. Choose any theme you want!
 ![example](https://raw.githubusercontent.com/dnbard/brackets-old-terminal/master/shots/shot04.png)

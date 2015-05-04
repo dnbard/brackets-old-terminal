@@ -1,7 +1,7 @@
 {
     "name": "dnbard.old-teminal",
     "title": "Vintage Terminal Effect",
-    "description": "Enhance any dark theme with visual effect of Vintage Terminal.",
+    "description": "Enhance your editor area with visual effects of Vintage Terminal. Supporting any dark theme for Brackets.",
     "homepage": "https://github.com/dnbard/brackets-old-terminal",
     "version": "1.1.0",
     "author": "Alex Bardanov",
@@ -9,5 +9,5 @@
     "engines": {
         "brackets": ">=1.0.0"
     },
-    "keywords": ["theme", "visual", "effect", "terminal"]
+    "keywords": ["theme", "visual", "effect", "terminal", "vintage", "old"]
 }

@@ -12,4 +12,4 @@ Features:
 ![example](https://raw.githubusercontent.com/dnbard/brackets-old-terminal/master/shots/shot03.png)
 
 Changes:
-* Added a menu item to toggle the effect
+* Added a menu item to View Menu to toggle the effect

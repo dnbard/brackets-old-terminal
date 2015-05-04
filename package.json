@@ -3,7 +3,7 @@
     "title": "Vintage Terminal Effect",
     "description": "Enhance any dark theme with visual effect of Vintage Terminal.",
     "homepage": "https://github.com/dnbard/brackets-old-terminal",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "Alex Bardanov",
     "license": "MIT",
     "engines": {

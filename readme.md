@@ -10,3 +10,6 @@ Features:
 
 * Support any fancy color rules from original theme
 ![example](https://raw.githubusercontent.com/dnbard/brackets-old-terminal/master/shots/shot03.png)
+
+Changes:
+* Added a menu item to toggle the effect
